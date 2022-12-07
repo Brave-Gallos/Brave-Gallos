@@ -5,6 +5,8 @@ Contract deploys:
 Contract Verify:
     npx hardhat  verify --network testnet Address
 
+You need to create your own secrets.json file with your own seed phrase
+
 
 Deploying contracts with the account: 0x766a5882B53bAF0EFa8F7c99Fe4944A8C7c1102c
 Account balance: 524336028736406647
